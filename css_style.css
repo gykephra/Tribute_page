@@ -1,0 +1,19 @@
+.d1{
+  width: 50%;
+  border: 10px solid purple;
+  overflow: hidden;
+  background-color: #C0DFEF;
+}
+
+.t1{
+  box-shadow: 5px 10px solid purple;
+}
+
+.box{
+  border: 2px solid black
+  width:55%;
+
+}
+
+
+
